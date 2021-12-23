@@ -1,0 +1,17 @@
+.grid {
+    display: inline-block;
+    align-items: center;
+    text-align: center    
+}
+
+.gallery {
+    display: inline-block;
+    margin: 20px;
+    width: 300px;
+}
+
+.editimage {
+    display: inline-block;
+    margin: 20px;
+    width: 1000px;
+}

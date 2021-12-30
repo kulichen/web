@@ -4,6 +4,13 @@
     text-align: center    
 }
 
+.grid1 {
+    display: inline-block;
+    align-items: center;
+    text-align: center
+}
+
+
 .gallery {
     display: inline-block;
     margin: 20px;
